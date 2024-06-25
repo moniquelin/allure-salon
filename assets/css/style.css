@@ -116,6 +116,7 @@ img {
 
 /* SERVICE */
 #service-container {
+    display: flex;
     justify-content: center;
 }
 
